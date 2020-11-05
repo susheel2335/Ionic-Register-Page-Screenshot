@@ -1,0 +1,80 @@
+.card
+{
+    background-color:#FFFFFF;
+    font-family: "adobe-clean", sans-serif;
+}
+h1
+{
+    top: 96px;
+
+
+text-align: center;
+font: normal normal bold 24px/36px DM Sans;
+letter-spacing: 0px;
+color: #102C56;
+opacity: 1;
+}
+h6{
+    top: 148px;
+    text-align: center;
+    font: normal normal normal 14px/22px DM Sans;
+    letter-spacing: 0px;
+    color: #1C2D57;
+    opacity: 1;
+}
+ion-item
+{
+    font: normal normal normal 14px/16px DM Sans;
+    letter-spacing: 0px;
+    color: #1C2D57;
+    opacity: 1;
+}
+.p{
+    font: normal normal normal 12px/14px DM Sans;
+letter-spacing: 0px;
+color: #ABB3BB;
+opacity: 1;
+}
+.businessicon
+{
+    font: normal normal normal 14px/16px Nunito Sans;
+letter-spacing: 0px;
+--background: transparent linear-gradient(180deg, #4C61E1 0%, #3B4DB9 100%) 0% 0% no-repeat padding-box;
+box-shadow: 0px 20px 80px #0000000A;
+border-radius: 6px;
+opacity: 1;
+color:#fff;
+}
+.personalicon
+{
+    border: 0.699999988079071px solid #E8E8E8;
+border-radius: 6px;
+opacity: 1;
+font: normal normal normal 14px/16px Nunito Sans;
+letter-spacing: 0px;
+color: #ABB3BB;
+--background:#E8E8E8;
+margin-left:30px;
+}
+ion-checkbox
+{
+    border: 0.5px solid #ABB3BB;
+border-radius: 5px;
+}
+.p1{
+    font: normal normal bold 12px/14px DM Sans;
+letter-spacing: 0px;
+
+opacity: 1;
+}
+.signup{
+   font: normal normal bold 14px/34px DM Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    --border-radius: 8px;
+    height: 52px;
+   --background: transparent linear-gradient(81deg, #FFBD56 0%, #FFAB28 100%) 0% 0% no-repeat padding-box;
+border-radius: 8px;
+opacity: 1;
+}

@@ -1,0 +1,70 @@
+.card
+{
+    background-color: #292B4D;
+}
+h1
+{
+    font: normal normal bold 32px/34px DM Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+   
+margin-left: 13px;
+}
+p{
+    font: normal normal normal 14px/38px DM Sans;
+letter-spacing: 0px;
+color: #A8AFC0;
+opacity: 1;
+    margin-left: 13px;
+}
+
+ion-checkbox
+{
+    --background	:#292B4D;
+    border: 1px solid #FFFFFF;
+   
+}
+.male
+{
+    --background: transparent linear-gradient(73deg, #F59873 0%, #F69E7B 100%) 0% 0% no-repeat padding-box;
+    font: normal normal normal 14px/16px Nunito Sans SemiBold;
+letter-spacing: 0px;
+color: #FFFFFF;
+height: 48px;
+}
+.female
+{
+    border: 0.699999988079071px solid #F59873;
+    margin-left:48px;
+    font: normal normal normal 14px/16px Nunito Sans;
+    letter-spacing: 0px;
+    color: #F59873;
+    --background:#292B4D;
+    height: 48px;
+}
+.signup
+{
+    --background: transparent linear-gradient(81deg, #F59873 0%, #F69E7B 100%) 0% 0% no-repeat padding-box;
+box-shadow: 0px 15px 80px #49190633;
+--border-radius: 8px;
+font: normal normal bold 14px/34px DM Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+height: 52px;
+}
+
+ion-item
+{
+    --background	:#FFFFFF33;
+    color: #F4F8FC;
+font: normal normal normal 14px/16px Nunito Sans;
+letter-spacing: 0px;
+}
+ion-label
+{
+
+font: normal normal bold 14px/34px DM Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
